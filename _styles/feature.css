@@ -6,6 +6,17 @@
   margin: 40px 0;
 }
 
+.feature-figure {
+  text-align: centre;
+}
+
+.feature-caption {
+  font-size: 0.9em;
+  colour: #555;
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
 .feature-image {
   flex-shrink: 0;
   width: 40%;
