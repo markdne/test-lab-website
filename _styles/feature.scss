@@ -58,8 +58,7 @@ $wrap: 800px;
   }
 
   .feature-image {
-    width: 100%;
-    max-width: calc($wrap / 2);
-    flex-shrink: 0;
+    width: calc($wrap / 2);
+    max-width: 100%;
   }
 }
