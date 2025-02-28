@@ -8,8 +8,7 @@
 
 .feature-figure {
   flex-shrink: 0;
-  width: 100%;
-  max-width: 400px;
+  width: 40%;
   text-align: centre;
 }
 
