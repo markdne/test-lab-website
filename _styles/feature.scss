@@ -58,7 +58,12 @@ $wrap: 800px;
   }
 
   .feature-image {
-    width: calc($wrap / 2);
-    max-width: 100%;
+    width: 100%;
+    max-width: calc($wrap / 2);
+  }
+
+  .feature-figure {
+    width: 100%;
+    max-width: calc($wrap / 2);
   }
 }
